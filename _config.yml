@@ -5,7 +5,7 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  -title: About Us
+  - title: About Us
     url: about
   - title: Report
     url: report
