@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
-title: trial for mms142
-description: Using a simple template based on minimal jekyll theme
-show_downloads: True
+title: Finding Fit
+description: A small blog website for PE 1 A.Y. 2020-2021 2nd Trimester
+show_downloads: False
 navigation:
   - title: Home
     url: /
-  - title: About Us
+  - title: About
     url: about
-  - title: Report
-    url: report
+  - title: Journey
+    url: journey
