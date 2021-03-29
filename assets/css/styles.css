@@ -41,7 +41,7 @@ span.heading::after{
   background: #ffc265;
   position: absolute;
   left:0;
-  top:50;
+  top:100;
   z-index: -1;
 }
 
@@ -61,7 +61,9 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:#ffc265;
+  text-decoration: underline #ffc265;
+  text-decoration-thickness: 3px;
 }
 
 a small {
