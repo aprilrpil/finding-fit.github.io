@@ -21,6 +21,7 @@ h1, h2, h3 {
 
 /*** h1 and h2 edited****/
 h1 {
+  margin:0 0 20px;
   font-size:28px;
   font-weight: 500;
   color: #545454;
@@ -29,13 +30,17 @@ h1 {
   word-spacing: 5px;
 }
 
-h1 span{
+h1::before{
   content: '';
+  width: 5px;
+}
+
+h1 span{
   width: 100%;
   height: 10px;
-  display: block;
+  display: relative;
   background: #ffc265;
-  position:relative;
+  position: relative;
   align-self: center;
   z-index: -1;
 }
