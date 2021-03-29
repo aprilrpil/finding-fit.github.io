@@ -29,13 +29,13 @@ h1 {
   word-spacing: 2px;
 }
 
-h1 span{
+span.heading{
   color: #ffc265;
   display:inline-block;
   position: relative;
 }
 
-h1 span::after{
+span.heading::after{
   content:'';
   width: 120%;
   height: 10px;
