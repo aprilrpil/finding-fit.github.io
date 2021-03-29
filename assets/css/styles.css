@@ -29,6 +29,7 @@ h1 {
   display: inline-block;
   position: relative;
   /***text-decoration: line-through #ffc265;***/
+  letter-spacing: 0.5px;
   word-spacing: 2px;
 }
 
@@ -220,7 +221,7 @@ section tr:nth-child(1) th{
   color: #545454;
   text-decoration: underline #ffc265;
   text-decoration-thickness: 3px;
-  text-size:20px;
+  text-size:24px;
   letter-spacing: 1px;
 }
 
