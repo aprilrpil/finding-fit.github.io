@@ -41,7 +41,7 @@ span.heading::after{
   background: #ffc265;
   position: absolute;
   left:0;
-  top:0;
+  top:50;
   z-index: -1;
 }
 
