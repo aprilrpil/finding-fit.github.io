@@ -33,7 +33,8 @@ h1 {
 h1 span{
   display: relative;
   background: #ffc265;
-  height: 15px;
+  height: 15%;
+  bottom: 30%;
   z-index: -1;
 }
 
