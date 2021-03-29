@@ -30,7 +30,6 @@ h1 {
 }
 
 span.heading{
-  background: #ffc265;
   display:inline-block;
   position: relative;
 }
@@ -39,6 +38,7 @@ span.heading::after{
   content:'';
   width: 120%;
   height: 10px;
+  background: #ffc265;
   position: absolute;
   left:calc(50%-10%);
   top: 0;
