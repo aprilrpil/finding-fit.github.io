@@ -34,11 +34,11 @@ h1 {
 h1::after{
   content:'';
   display: block;
-  width: 100%;
+  width: 105%;
   height: 10px;
-  background: rgba(255,194,101,150);
+  background: #FFDCA9;
   position: absolute;
-  bottom: 40%;
+  bottom: 35%;
   z-index: -1;
 }
 
