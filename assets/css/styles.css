@@ -131,20 +131,6 @@ th, td {
   border-bottom:1px solid #e5e5e5;
 }
 
-section th{
-  color: #545454;
-  text-decoration: underline #ffc265;
-  text-decoration-thickness: 3px;
-}
-
-section td{
-  text-indent: 5px;
-}
-
-section tr:nth-child(even){
-  background: #FFE8B2;
-}
-
 dt {
   color:#444;
   font-weight:500;
@@ -228,6 +214,20 @@ section {
   width:750px;
   float:right;
   padding-bottom:50px;
+}
+
+section th{
+  color: #545454;
+  text-decoration: underline #ffc265;
+  text-decoration-thickness: 3px;
+}
+
+section td{
+  text-indent: 5px;
+}
+
+section tr:nth-child(even){
+  background: #FFE8B2;
 }
 
 small {
