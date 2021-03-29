@@ -29,10 +29,13 @@ h1 {
   word-spacing: 2px;
 }
 
+h1 span{
+  vertical-align: middle;
+}
+
 span.heading{
   display:inline-block;
   height: 10px;
-  vertical-align: middle;
   background: rgba(255,194,101,150);
   /***text-decoration: line-through rgba(255,194,101,150);
   text-decoration-thickness: 10px;***/
