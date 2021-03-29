@@ -71,7 +71,7 @@ Target Heart Rate = 147.4 BPM
       Target Heart Rate
     </th>
     <td>
-      145.4 beats per minute (BPM)
+      <strong>145.4 beats per minute (BPM)</strong>
     </td>
   </tr>
 </table>
