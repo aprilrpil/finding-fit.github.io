@@ -40,8 +40,8 @@ span.heading::after{
   height: 10px;
   background: #ffc265;
   position: absolute;
-  left:calc(50%-10%);
-  top: 0;
+  left:-5;
+  top:15;
   z-index: -1;
 }
 /***
