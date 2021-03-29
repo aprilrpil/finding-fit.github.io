@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# <span class="heading">{{site.title}}</span>
+# {{site.title}}
 {{site.description}}
 ---
 
