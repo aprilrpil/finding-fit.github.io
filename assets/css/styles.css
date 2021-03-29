@@ -32,8 +32,11 @@ h1 {
 span.heading{
   display:inline-block;
   position: relative;
+  text-decoration: line-through #ffc265;
+  text-decoration-thickness: 5px;
+  z-index: -1;
 }
-
+/***
 span.heading::after{
   content:'';
   width: 120%;
@@ -43,7 +46,7 @@ span.heading::after{
   left:0;
   top:100;
   z-index: -1;
-}
+}***/
 
 h2 {
   color:#ffc265;  
