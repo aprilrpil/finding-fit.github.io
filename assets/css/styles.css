@@ -216,10 +216,12 @@ section {
   padding-bottom:50px;
 }
 
-section th{
+section th:nth-child(1){
   color: #545454;
   text-decoration: underline #ffc265;
   text-decoration-thickness: 3px;
+  text-size:20px;
+  letter-spacing: 1px;
 }
 
 section td{
