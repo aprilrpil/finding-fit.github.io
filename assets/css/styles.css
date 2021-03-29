@@ -36,7 +36,7 @@ h1 span{
   display: block;
   background: #ffc265;
   position:relative;
-  bottom: 10%;
+  align-self: center;
   z-index: -1;
 }
 /***
