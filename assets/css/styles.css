@@ -34,7 +34,7 @@ h1 span{
   position: relative;
 }
 
-h1 span::before{
+h1 span:before{
   width: 100%;
   height: 10px;
   background: #ffc265;
