@@ -29,11 +29,11 @@ h1 {
   word-spacing: 2px;
 }
 
-span.heading{
+span.heading{/***
   display:inline-block;
-  position: relative;
-  text-decoration: line-through rgba(255,194,101,210);
-  text-decoration-thickness: 5px;
+  position: relative;***/
+  text-decoration: line-through rgba(255,194,101,150);
+  text-decoration-thickness: 10px;
   z-index: -2;
 }
 /***
