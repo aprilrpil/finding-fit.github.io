@@ -24,9 +24,12 @@ h1 {
   font-size:28px;
   font-weight: 500;
   color: #545454;
-  text-decoration: line-through #ffc265;
+  /***text-decoration: line-through #ffc265;***/
   letter-spacing: 2px;
   word-spacing: 5px;
+  display: block;
+  background: #ffc265;
+  top: 40%;
 }
 
 h1::before, ::after{
