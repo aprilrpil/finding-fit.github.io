@@ -34,6 +34,9 @@ h1 {
 
 h1::before, ::after{
   content: " ";
+  display: block;
+  background: #ffc265;
+  top: 40%;
 }
 
 h2 {
