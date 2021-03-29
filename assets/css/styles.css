@@ -126,23 +126,23 @@ table {
 }
 
 th, td {
-  /***text-align:left;***/
+  text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
 
-th{
+section th{
   color: #545454;
   text-decoration: underline #ffc265;
   text-decoration-thickness: 3px;
 }
 
-td{
+section td{
   text-indent: 5px;
 }
 
-tr:nth-child(odd){
-  background: #ffc265;
+section tr:nth-child(even){
+  background: #FFE8B2;
 }
 
 dt {
