@@ -71,6 +71,8 @@ layout: default
   </tr>
 </table>
 
+---
+
 <table>
   <tr>
     <th colspan="2" style="text-align:center;">Waist to Hip Ratio (WHR)</th>
