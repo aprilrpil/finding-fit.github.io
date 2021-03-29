@@ -40,19 +40,10 @@ span.heading::after{
   height: 10px;
   background: #ffc265;
   position: absolute;
-  left:-5;
+  left:0;
   top:15;
   z-index: -1;
 }
-/***
-h1 span{
-  display: relative;
-  background: #ffc265;
-  height: 10px;
-  bottom: 30%;
-  z-index: -1;
-}
-***/
 
 h2 {
   color:#ffc265;  
