@@ -1,4 +1,4 @@
-# <span class="heading">My Journey to Finding Fit</span>
+# My Journey to Finding Fit
 ***
 
 [Link to a file not listed in nav](setup.md) |
