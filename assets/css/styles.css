@@ -30,16 +30,17 @@ h1 {
 }
 
 h1::before, ::after{
-  content: " ";
+  content: "";
+  width: 10px;
   display: block;
   position: absolute;
 }
 
 h1 span{
-  display: block;
+  display: relative;
   background: #ffc265;
   top: 40%;
-  height: 50px;
+  height: 10px;
   z-index: -1;
 }
 
