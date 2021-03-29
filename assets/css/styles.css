@@ -9,6 +9,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  overflow-wrap: normal;
 }
 
 p, ul, ol, table, pre, dl {
@@ -237,7 +238,7 @@ footer {
 /****** added mixin word-wrap ****/
 
 @mixin word-wrap() {
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
   word-wrap: break-word;
   -ms-word-break: break-all;
   word-break: break-all;
