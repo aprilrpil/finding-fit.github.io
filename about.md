@@ -13,7 +13,7 @@ layout: default
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:center;">Some of the Pre-assessment Questions (as of Feb 26, 2021)</th>
+    <th colspan="2"><p style="text-align:center;">Some of the Pre-assessment Questions (as of Feb 26, 2021)</p></th>
   </tr>
   <tr>
     <th>Height (in meters)</th>
@@ -75,7 +75,7 @@ layout: default
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:center;">Waist to Hip Ratio (WHR)</th>
+    <th colspan="2"><p style="text-align:center;">Waist to Hip Ratio (WHR)</p></th>
   </tr>
   <tr>
     <th width="120px">Pear shape
