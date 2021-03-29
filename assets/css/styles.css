@@ -216,7 +216,7 @@ section {
   padding-bottom:50px;
 }
 
-section th:nth-child(1){
+section tr:nth-child(1) th{
   color: #545454;
   text-decoration: underline #ffc265;
   text-decoration-thickness: 3px;
