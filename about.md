@@ -79,7 +79,9 @@ layout: default
     <th width="200px">Pear shape
       <p>(low health risk)</p>
     </th>
-    <td rowspan="2"><i>Women with a ratio of 0.8 or below are considered to be pear shaped. People with pear shaped bodies are in the lower risk category for health problems such as heart disease, type 2 diabetes and some forms of cancer. In pear shaped bodies, fat tends to gather around the hips and buttocks, rather than the waist. This is purely down to genetics. However, The NHS notes that even pears are at higher risk if their waist measurement exceeds 37 inches / 94cm for men, or 31.5 inches / 80cm for women.</i></td>
+    <td rowspan="2"><p><i>Women with a ratio of 0.8 or below are considered to be pear shaped. People with pear shaped bodies are in the lower risk category for health problems such as heart disease, type 2 diabetes and some forms of cancer. In pear shaped bodies, fat tends to gather around the hips and buttocks, rather than the waist. This is purely down to genetics. However, The NHS notes that even pears are at higher risk if their waist measurement exceeds 37 inches / 94cm for men, or 31.5 inches / 80cm for women.</i></p>
+      <p style="text-align: right;">&#8212; From <i>The Calculator Site</i></p>
+    </td>
   </tr>
   <tr>
     <th><p>Waist: 64.5cm</p>
