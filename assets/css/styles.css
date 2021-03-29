@@ -24,7 +24,7 @@ h1 {
   font-size:28px;
   font-weight: 500;
   color: #545454;
-  text-decoration: strikethrough #ffc265 rgba(255,194,101,200);
+  text-decoration: line-through #ffc265;
   letter-spacing: 2px;
   word-spacing: 5px;
 }
