@@ -30,7 +30,7 @@ h1 {
 }
 
 span.heading{
-  color: #ffc265;
+  background: #ffc265;
   display:inline-block;
   position: relative;
 }
