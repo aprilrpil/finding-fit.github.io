@@ -38,7 +38,7 @@ h1 span{
   height: 5px;
   display: block;
   background: #ffc265;
-  position:absolute;
+  position:relative;
   bottom: 10%;
   z-index: -1;
 }
