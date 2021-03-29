@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# <span class="heading">About Me</span>
+# About Me
 ***
 
 <table style="max-width: 800px">
