@@ -19,13 +19,20 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
+/*** h1 and h2 edited****/
 h1 {
   font-size:28px;
   font-weight: 500;
+  color: #545454;
+  text-decoration: line-through #ffc265 rgba(255,194,101,200);
+}
+
+h1::before, ::after{
+  content: " ";
 }
 
 h2 {
-  color:#393939;
+  color:#ffc265;  
   font-weight: 500;
 }
 
@@ -192,6 +199,24 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+/****** added mixin word-wrap ****/
+
+@mixin word-wrap() {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens:auto;
+  -webkit-hypens: auto;
+  hyphens:auto;
+} /**** @mixin code taken from Coyier, C. (2018, July 25). CSS-Tricks ****/
+
+body a {
+  @include word-wrap;
 }
 
 @media print, screen and (max-width: 960px) {
