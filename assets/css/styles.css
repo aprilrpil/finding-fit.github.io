@@ -244,7 +244,7 @@ section td a:hover {
   text-decoration-thickness: 3px;
 }
 
-section th a{
+section tr:nth-child(1) th a{
   color: #545454;
   text-decoration-color: #545454;
 }
