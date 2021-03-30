@@ -53,7 +53,9 @@ Formula: [(maxHR-RHR)xintensity] + RHR = Target Heart Rate
 ```
 
 age = 23
+
 RHR = my average heart rate is 73 BPM
+
 intensity = I will follow the number given in the video
 ```
 Target Heart Rate = {[(220-age)-RHR] x intensity} + RHR
