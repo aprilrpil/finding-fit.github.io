@@ -5,7 +5,7 @@ layout: default
 {{site.description}}
 ---
 
-***
+
 ## Welcome to my Blog for PE1 2020-21 2nd Trimester
 
 <table style="max-width: 800px">
