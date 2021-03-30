@@ -221,14 +221,6 @@ section table{
   border: 1px solid #e5e5e5;
 }
 
-section tr:nth-child(1) th{
-  color: #545454;
-  text-decoration: underline #ffc265;
-  text-decoration-thickness: 3px;
-  text-size:24px;
-  letter-spacing: 1px;
-}
-
 section th td{
   text-indent: 5px;
 }
@@ -237,7 +229,15 @@ section tr:nth-child(even){
   background: #FFE8B2;
 }
 
-section td a:hover {
+section tr:nth-child(1) th{
+  color: #545454;
+  text-decoration: underline #ffc265;
+  text-decoration-thickness: 3px;
+  text-size:24px;
+  letter-spacing: 1px;
+}
+
+section th td a:hover {
   color:#545454;
   font-weight: 500;
   text-decoration: underline #545454;
