@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-<h2> Welcome to my Blog for PE1 2020-21 2nd Trimester</h2>
+## Welcome to my Blog for PE1 2020-21 2nd Trimester
 
 <table style="max-width: 800px">
   <tr>
