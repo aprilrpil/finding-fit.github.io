@@ -34,7 +34,7 @@ layout: default
   </tr>
   <tr>
     <th>Sit & Reach (Best out of 3)</th>
-    <td>65cm</td>
+    <td>65cm - <a href="">good</a></td>
   </tr>
   <tr>
     <th>Plank Test (in seconds)</th>
@@ -49,6 +49,9 @@ layout: default
     <td>60s</td>
   </tr>
   <tr>
+    <th colspan="2" style="text-align: center;"> 25 Curl ups in 60 seconds: <a href="">below average</a></th>
+  </tr>
+  <tr>
     <th>Push up (# of completed push ups)</th>
     <td>20</td>
   </tr>
@@ -57,12 +60,17 @@ layout: default
     <td>36s</td>
   </tr>
   <tr>
+    <th colspan="2" style="text-align: center;"> 20 Push ups in 36 seconds: <a href="">average</a></th>
+  </tr>
+  <tr>
     <th>Trunk Flexion Test
       <p>(what part of the body did you reach? Toes, ankle, or knee?)</p>
     </th>
     <td>Toes</td>
   </tr>
 </table>
+
+[Reference to performance ranking.](url)
 
 ---
 
