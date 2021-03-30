@@ -4,6 +4,7 @@
 [Prologue: Pre-assessment Test](about.md) |
 ---------------------------------------------|
 The first thing that we did in PE1 (aside from introducing ourselves) was to take a pre-assessment test to see the physical state our bodies were currently at, at the time (late February 2021). I have shared some of my results on my About Me page.|
+[Link to Fitness Index Charts referred in the post](references.md)
 
 [Daily Heart Rates and Target Heart Rate](thr-andrecords.md) |
 ---------------------------------------------|
