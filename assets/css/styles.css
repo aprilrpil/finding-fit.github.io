@@ -81,7 +81,7 @@ a {
 
 a:hover {
   color:#ffc265;
-  text-decoration: underline #ffc265;
+  text-decoration: underline #545454;
   text-decoration-thickness: 3px;
 }
 
@@ -231,6 +231,29 @@ section td{
 
 section tr:nth-child(even){
   background: #FFE8B2;
+}
+
+section table a{
+  display: inline-block;
+  position: relative;
+}
+
+section table a::after{
+  content:'';
+  display: block;
+  width: 105%;
+  height: 105%;
+  background: #545454;
+  position: absolute;
+  bottom: 0;
+  z-index: -1;
+}
+
+section td a:hover {
+  color:#ffc265;
+  font-weight: 100;
+  text-decoration: underline #ffc265;
+  text-decoration-thickness: 3px;
 }
 
 small {
