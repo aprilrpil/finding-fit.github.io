@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# References
+# Fitness Index Charts
 
 ## Push up
 ![Push up Chart for Men](assets/img/group1/assessment_10.jpg)
