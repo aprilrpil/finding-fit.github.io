@@ -249,7 +249,7 @@ section tr:nth-child(1) th a{
   text-decoration-color: #545454;
 }
 
-section th a:hover{
+section tr:nth-child(1) th a:hover{
   color: #ffc265;
   text-decoration-color: #ffc265;
 }
