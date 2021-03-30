@@ -217,6 +217,11 @@ section {
   padding-bottom:50px;
 }
 
+section table{
+  border-left: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+}
+
 section tr:nth-child(1) th{
   color: #545454;
   text-decoration: underline #ffc265;
