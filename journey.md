@@ -12,3 +12,11 @@ Resting heart rates recorded in 3 consecutive days, Feb 23 to 25, before taking 
 [Link to a file not listed in nav](setup.md) |
 ---------------------------------------------|
 Descrption to post|
+
+[Link to a nonexistent file](404.md) |
+---------------------------------------------|
+Descrption to post|
+
+[Link to a nonexistent file](404.md) |
+---------------------------------------------|
+Descrption to post|
