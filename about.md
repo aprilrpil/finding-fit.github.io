@@ -34,7 +34,7 @@ layout: default
   </tr>
   <tr>
     <th>Sit & Reach (Best out of 3)</th>
-    <td>65cm - <a href="">good</a></td>
+    <td>65cm - <a href="references.md">good</a></td>
   </tr>
   <tr>
     <th>Plank Test (in seconds)</th>
@@ -49,7 +49,7 @@ layout: default
     <td>60s</td>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center;"> 25 Curl ups in 60 seconds: <a href="">below average</a></th>
+    <th colspan="2" style="text-align: center;"> 25 Curl ups in 60 seconds: <a href="references.md">below average</a></th>
   </tr>
   <tr>
     <th>Push up (# of completed push ups)</th>
@@ -60,7 +60,7 @@ layout: default
     <td>36s</td>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center;"> 20 Push ups in 36 seconds: <a href="">average</a></th>
+    <th colspan="2" style="text-align: center;"> 20 Push ups in 36 seconds: <a href="references.md">average</a></th>
   </tr>
   <tr>
     <th>Trunk Flexion Test
@@ -70,7 +70,7 @@ layout: default
   </tr>
 </table>
 
-[Reference to performance ranking.](url)
+[Reference to fitness indices.](references.md)
 
 ---
 
