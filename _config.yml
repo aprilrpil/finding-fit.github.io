@@ -9,3 +9,5 @@ navigation:
     url: about
   - title: Journey
     url: journey
+  - title: Fitness Index Charts
+    url: references
