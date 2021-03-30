@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Daily Heart Rates and Target Heart Rate
+***
 
 ## Daily Heart Rates
 #### Recorded from February 23 to 25, 2021
