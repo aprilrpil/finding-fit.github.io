@@ -49,8 +49,8 @@ span.heading{
   display:inline-block;
   height: 10px;
   background: rgba(255,194,101,150);
-  /***text-decoration: line-through rgba(255,194,101,150);
-  text-decoration-thickness: 10px;***/
+  text-decoration: line-through rgba(255,194,101,150);
+  text-decoration-thickness: 10px;
   z-index: -1;
 }
 span.heading::after{
