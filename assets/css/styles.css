@@ -233,12 +233,15 @@ section tr:nth-child(even){
   background: #FFE8B2;
 }
 
-section table a{
+section tr a{
+  color: #fff;
+  text-decoration: underline #fff;
+  text-decoration-thickness: 2px;
   display: inline-block;
   position: relative;
 }
 
-section table a::after{
+section tr a::after{
   content:'';
   display: block;
   width: 105%;
@@ -249,9 +252,9 @@ section table a::after{
   z-index: -1;
 }
 
-section td a:hover {
+section tr a:hover {
   color:#ffc265;
-  font-weight: 100;
+  font-weight: 500;
   text-decoration: underline #ffc265;
   text-decoration-thickness: 3px;
 }
