@@ -2,6 +2,7 @@
 layout: default
 ---
 # Short Term and Long Term goals
+***
 
 ## Concerns:
 - fast resting heart rate and slow to lower heart rate (after rigorous activity such Harvard Step Test)
