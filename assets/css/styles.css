@@ -237,7 +237,7 @@ section tr:nth-child(1) th{
   letter-spacing: 1px;
 }
 
-section th td a:hover {
+section tr a:hover {
   color:#545454;
   font-weight: 500;
   text-decoration: underline #545454;
