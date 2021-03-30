@@ -8,7 +8,7 @@ layout: default
 
 ## Welcome to my Blog for PE1 2020-21 2nd Trimester
 
-<table style="max-width: 800px">
+<table>
   <tr>
     <td><img src="assets/img/white background w glasses_compressed--cropped-resized.png" alt="Profile Picture: Image of a girl in a ponytail, wearing pointy-rimmed eyeglasses" max-width="200"></td>
     <td>
