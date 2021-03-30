@@ -10,6 +10,10 @@ The first thing that we did in PE1 (aside from introducing ourselves) was to tak
 ---------------------------------------------|
 Resting heart rates recorded in 3 consecutive days, Feb 23 to 25, before taking the Pre-assessment Test, and my Target Heart Rate (THR), calculated using the Karvonen Method, based on my resting heart rate recorded on March 15. |
 
+[Short Term and Long Term goals](goals.md) |
+---------------------------------------------|
+My short term and long term goals. The link to view my reflection paper is included there as well. |
+
 [Link to a file not listed in nav](setup.md) |
 ---------------------------------------------|
 Descrption to post|
