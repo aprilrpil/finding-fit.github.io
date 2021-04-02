@@ -189,6 +189,7 @@ header ul a {
 
 header ul a:hover {
   color:#999;
+  text-decoration: none;
 }
 
 header ul a:active {
