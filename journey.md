@@ -13,11 +13,11 @@ Resting heart rates recorded in 3 consecutive days, Feb 23 to 25, before taking 
 [Short Term and Long Term goals](goals.md) |
 ---------------------------------------------|
 My short term and long term goals. The link to view my reflection paper is included there as well. |
-
+<!---
 [Link to a file not listed in nav](module5.md) |
 ---------------------------------------------|
 Descrption to post|
-
+-->
 <!---
 [Link to a nonexistent file](404.md) |
 ---------------------------------------------|
