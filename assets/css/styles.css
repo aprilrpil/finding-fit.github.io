@@ -190,6 +190,7 @@ header ul a {
 header ul a:hover {
   color:#999;
   text-decoration: none;
+  background-color:#f0f0f0;
 }
 
 header ul a:active {
