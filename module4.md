@@ -19,7 +19,7 @@ For Sit & Reach, my best out of 3 was 65cm, which was "good" for me, as a woman.
     
 Next: For Plank test, I managed to hold the preparatory stance for 37.53 seconds. I don't know what that says about my fitness level but I believe the plank test's purpose is to test the core muscle strength. Because I struggled while doing the test, I think this indicates that I need to work on my core muscle strength.
     
-The next exercises are Curl up and Push up. The Curl Up test measures the strength and endurance of the abdominal muscles, while the Push Up test meaures the muscular strength and endurance of the upper body, whioch includes the shoulders, the chest, and the triceps or upper arm. I did below average to average for curl up and push up test, based on the number of repetitions I did, however, I only lasted 36 seconds for Push up and not a full minute.
+The next exercises are Curl up and Push up. The Curl Up test measures the strength and endurance of the abdominal muscles, while the Push Up test meaures the muscular strength and endurance of the upper body, which includes the shoulders, the chest, and the triceps or upper arm. I did below average to average for curl up and push up test, based on the number of repetitions I did, however, I only lasted 36 seconds for Push up and not a full minute.
 
 &nbsp; ![Curl ups and Push ups results: below average for curl ups with 25 seconds in 60 seconds, and; average for push ups with 20 push ups in 36 seconds.](assets/img/fitnesslvl_results/curlup-pushup_ss.png)
 ![](assets/img/fitnesslvl_results/20210405_042956.png)	|	![](assets/img/fitnesslvl_results/20210405_043032.png)	|	![](assets/img/fitnesslvl_results/20210405_043051.png)	|
