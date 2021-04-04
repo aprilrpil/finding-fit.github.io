@@ -23,9 +23,20 @@ The next exercises are Curl up and Push up. The Curl Up test measures the streng
 
 &nbsp; ![Curl ups and Push ups results: below average for curl ups with 25 seconds in 60 seconds, and; average for push ups with 20 push ups in 36 seconds.](assets/img/fitnesslvl_results/curlup-pushup_ss.png)
 
-<img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/
+<table>
+	<tr>
+		<td><img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/>
+		</td>
+		<td><img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/>
+		</td>
+		<td><img src="/assets/img/fitnesslvl_results/triceps.png"/>
+		</td>
+	</tr>
+</table>
+
+<img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/>
 <img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/>
-<img src="/assets/img/fitnesslvl_results/triceps.png">/	
+<img src="/assets/img/fitnesslvl_results/triceps.png"/>	
     
 Overall, I can safely conclude that this means my upper body and core muscles have poor or below average muscular strength and endurance and that I need to improve them. Therefore, the health component that I wish to understand with my body is muscular strength and endurance, particularly of my core and upper body.
 	
