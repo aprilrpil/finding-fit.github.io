@@ -9,7 +9,7 @@ First: my BMI is 18.6 which indicates "normal weight" and my WHR is 0.75, which 
 
 &nbsp; ![BMI: 18.6](assets/img/fitnesslvl_results/bmi_ss.png)
 &nbsp; ![Waist to hip ratio: 0.75 - Pear shape (low health risk)](assets/img/fitnesslvl_results/whr_ss.png)
-&nbsp; ![world fitness health level: Good](assets/img/fitnesslvl_results/worldfitnesslevel_result_fitnessLVL.png)
+&nbsp; ![world fitness health level: Good](assets/img/fitnesslvl_results/worldfitnesslevel_result_complete.png)
     
 In the [pre-assessment test](about.md), we were asked to perform several exercises which will tell us our current fitness level regarding specific health components, namely, cardiovascular endurance, flexibility, muscular endurance, muscle strength, and body compositions. The main exercises were Sit & Reach, Plank Test, Curl Up, Push Up, and Trunk Flexion test.
 
