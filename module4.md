@@ -22,20 +22,10 @@ Next: For Plank test, I managed to hold the preparatory stance for 37.53 seconds
 The next exercises are Curl up and Push up. The Curl Up test measures the strength and endurance of the abdominal muscles, while the Push Up test meaures the muscular strength and endurance of the upper body, which includes the shoulders, the chest, and the triceps or upper arm. I did below average to average for curl up and push up test, based on the number of repetitions I did, however, I only lasted 36 seconds for Push up and not a full minute.
 
 &nbsp; ![Curl ups and Push ups results: below average for curl ups with 25 seconds in 60 seconds, and; average for push ups with 20 push ups in 36 seconds.](assets/img/fitnesslvl_results/curlup-pushup_ss.png)
-<table>
-	<tr>
-		<td>
-			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/8549cc6ec76a4b827a00f10fdf5bbcfcdb0c7469/assets/img/fitnesslvl_results/20210405_042956.png">
-		</td>
-		<td>
-			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/e87ddc017b8de890f9aa582beb5ff8f0f86dced4/assets/img/fitnesslvl_results/20210405_043032.png">
-		</td>
-		<td>
-			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/e87ddc017b8de890f9aa582beb5ff8f0f86dced4/assets/img/fitnesslvl_results/20210405_043051.png">
-		</td>
-	</tr>
-</table>
-		
+
+<img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/
+<img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/>
+<img src="/assets/img/fitnesslvl_results/triceps.png">/	
     
 Overall, I can safely conclude that this means my upper body and core muscles have poor or below average muscular strength and endurance and that I need to improve them. Therefore, the health component that I wish to understand with my body is muscular strength and endurance, particularly of my core and upper body.
 	
@@ -43,7 +33,7 @@ I believe that the most possible explanation as to why my cardiovascular health 
 	
 If I have extra energy on that particular day, or in a hurry, I run and brisk walk, too. My shoulders get exercise by walking while carrying 3-4 kilos of weight on my way back home. I can carry roughly 3 kilos or 1 gallon with one hand, carry 5 kilos in an ecobag on my shoulder, and carry 15 to 21 kilos with both hands supporting the weight from the bottom. I can't walk too far, like more than 20 meters while carrying 15 kilos and above, however. I think, I have strength in my forearms but have weak upper arms or triceps.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxD7AyaMlPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GxD7AyaMlPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 With this simple body analysis, I believe my conclusions are in harmony with the short-term and long-term goals I have made together with my [reflection essay](goals.md). Focusing on my upper body and core muscle strength and endurance will address my concern about my visceral fat, improve my performance in doing push-ups and plank test. I initially wanted to gain strength or power as one of my long-term goals, too. As for my goal of lowering my resting heart rate: even though my test result for cardiovascular fitness says my heart is in "good" condition, I think this addresses my eating habit or diet. Perhaps reducing the amount of caffeine and sugar, may help, but I am not looking forward to it. Or maybe I'm just being a hypochondriac but I can't help question my health when i feel palpitations.
     
