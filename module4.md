@@ -25,13 +25,13 @@ The next exercises are Curl up and Push up. The Curl Up test measures the streng
 <table>
 	<tr>
 		<td>
-			<img src"https://github.com/aprilrpil/finding-fit.github.io/blob/8549cc6ec76a4b827a00f10fdf5bbcfcdb0c7469/assets/img/fitnesslvl_results/20210405_042956.png">
+			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/8549cc6ec76a4b827a00f10fdf5bbcfcdb0c7469/assets/img/fitnesslvl_results/20210405_042956.png">
 		</td>
 		<td>
-			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/master/assets/img/fitnesslvl_results/20210405_043032.png">
+			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/e87ddc017b8de890f9aa582beb5ff8f0f86dced4/assets/img/fitnesslvl_results/20210405_043032.png">
 		</td>
 		<td>
-			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/master/assets/img/fitnesslvl_results/20210405_043051.png">
+			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/e87ddc017b8de890f9aa582beb5ff8f0f86dced4/assets/img/fitnesslvl_results/20210405_043051.png">
 		</td>
 	</tr>
 </table>
