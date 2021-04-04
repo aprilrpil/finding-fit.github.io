@@ -26,17 +26,14 @@ The next exercises are Curl up and Push up. The Curl Up test measures the streng
 <table>
 	<tr>
 		<td><img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/>
+		<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/625aa624ef0745da255081bd979721486a8bc9d7/assets/img/fitnesslvl_results/anterior_deltoid.png>
 		</td>
-		<td><img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/>
+		<td><img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/><img src="https://github.com/aprilrpil/finding-fit.github.io/blob/63f23b668a486555607b0542bd0f35d743622aa1/assets/img/fitnesslvl_results/pectoralis_major.png">
 		</td>
-		<td><img src="/assets/img/fitnesslvl_results/triceps.png"/>
+		<td><img src="/assets/img/fitnesslvl_results/triceps.png"/><img src="https://github.com/aprilrpil/finding-fit.github.io/blob/63f23b668a486555607b0542bd0f35d743622aa1/assets/img/fitnesslvl_results/triceps.png">
 		</td>
 	</tr>
 </table>
-
-<img src="/assets/img/fitnesslvl_results/anterior_deltoid.png"/>
-<img src="/assets/img/fitnesslvl_results/pectoralis_major.png"/>
-<img src="/assets/img/fitnesslvl_results/triceps.png"/>	
     
 Overall, I can safely conclude that this means my upper body and core muscles have poor or below average muscular strength and endurance and that I need to improve them. Therefore, the health component that I wish to understand with my body is muscular strength and endurance, particularly of my core and upper body.
 	
