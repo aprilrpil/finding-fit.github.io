@@ -22,8 +22,20 @@ Next: For Plank test, I managed to hold the preparatory stance for 37.53 seconds
 The next exercises are Curl up and Push up. The Curl Up test measures the strength and endurance of the abdominal muscles, while the Push Up test meaures the muscular strength and endurance of the upper body, which includes the shoulders, the chest, and the triceps or upper arm. I did below average to average for curl up and push up test, based on the number of repetitions I did, however, I only lasted 36 seconds for Push up and not a full minute.
 
 &nbsp; ![Curl ups and Push ups results: below average for curl ups with 25 seconds in 60 seconds, and; average for push ups with 20 push ups in 36 seconds.](assets/img/fitnesslvl_results/curlup-pushup_ss.png)
-![](assets/img/fitnesslvl_results/20210405_042956.png)	|	![](assets/img/fitnesslvl_results/20210405_043032.png)	|	![](assets/img/fitnesslvl_results/20210405_043051.png)	|
----|---|---|
+<table>
+	<tr>
+		<td>
+			<img src"https://github.com/aprilrpil/finding-fit.github.io/blob/8549cc6ec76a4b827a00f10fdf5bbcfcdb0c7469/assets/img/fitnesslvl_results/20210405_042956.png">
+		</td>
+		<td>
+			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/master/assets/img/fitnesslvl_results/20210405_043032.png">
+		</td>
+		<td>
+			<img src="https://github.com/aprilrpil/finding-fit.github.io/blob/master/assets/img/fitnesslvl_results/20210405_043051.png">
+		</td>
+	</tr>
+</table>
+		
     
 Overall, I can safely conclude that this means my upper body and core muscles have poor or below average muscular strength and endurance and that I need to improve them. Therefore, the health component that I wish to understand with my body is muscular strength and endurance, particularly of my core and upper body.
 	
@@ -51,7 +63,7 @@ Despite some of my positive results - with my BMI, WHR and cardiovascular fitnes
 4. **How many seconds did you do your push-ups and curl-ups?**
     - I couldn't complete the whole minute doing the push-ups, but I managed to do it for curl-ups. On the other hand, while I couldn't finish the whole 60 seconds for push-ups, I did manage to do 20 push-ups in 36 seconds. Based on the number of push-ups, I did _average_ for my age group, but I couldn't celebrate it because I didn't last for 60 seconds. For curl ups, I did 25 curl-ups in 60 seconds which is _below average_ so I'm not too happy about that either.
 5. **Are you satisfied with your BMI and WHR results?**
-    - Yes but my biggest concern is maintaining it, however, since my BMI is near the threshold for 'underweight' category. It is very easy for me to lose weight because of stress and lack of appetite because of food that I find unappeealing/that I do not like.
+    - Yes but my biggest concern is maintaining it as my BMI is near the threshold for 'underweight' category. It is very easy for me to lose weight because of stress and lack of appetite because of food that I find unappeealing/that I do not like.
 
 
 ---
