@@ -79,7 +79,7 @@ layout: default
     <th colspan="2"><p style="text-align:center;">Waist to Hip Ratio (WHR)</p></th>
   </tr>
   <tr>
-    <th width="120px">Pear shape
+    <th width="120px">0.75 - Pear shape
       <p>(low health risk)</p>
     </th>
     <td rowspan="2"><p><i>Women with a ratio of 0.8 or below are considered to be pear shaped. People with pear shaped bodies are in the lower risk category for health problems such as heart disease, type 2 diabetes and some forms of cancer. In pear shaped bodies, fat tends to gather around the hips and buttocks, rather than the waist. This is purely down to genetics. However, The NHS notes that even pears are at higher risk if their waist measurement exceeds 37 inches / 94cm for men, or 31.5 inches / 80cm for women.</i></p>
