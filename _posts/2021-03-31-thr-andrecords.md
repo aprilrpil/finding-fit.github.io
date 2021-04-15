@@ -1,5 +1,9 @@
 ---
 layout: default
+title: "Daily Heart Rates and Target Heart Rate"
+date: 2021-03-31
+categories: blog-post
+tags: reflection analysis
 ---
 
 # Daily Heart Rates and Target Heart Rate
