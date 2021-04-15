@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Short Term and Long Term goals"
-date: 2021-03-31 02:00:00
+date: 2021-03-31 02:00:00 +0800
 categories: blog_post
 tags: reflection analysis
 ---
