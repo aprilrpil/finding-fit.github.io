@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Daily Heart Rates and Target Heart Rate"
-date: 2021-03-31
+date: 2021-03-31 hh:mm:ss -0000
 categories: blog-post
 tags: data-report
 ---
