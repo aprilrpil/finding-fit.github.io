@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Daily Heart Rates and Target Heart Rate"
-categories: blog-post
-tags: data-report
 ---
 
 # Daily Heart Rates and Target Heart Rate
