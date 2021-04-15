@@ -29,3 +29,12 @@ How fit am I, really? After taking test to see the fitness level of my cardiovas
 ---------------------------------------------|
 Descrption to post|
 --->
+
+## My Blog Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
