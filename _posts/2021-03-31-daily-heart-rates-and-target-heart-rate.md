@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Daily Heart Rates and Target Heart Rate"
-date: yyyy-mm-dd hh:mm:ss -0000
 categories: blog-post
 tags: data-report
 ---
