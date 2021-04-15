@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Principles of Fitness Training Design"
-date: 2021-04-16 hh:mm:ss +0800
+date: 2021-04-16
 categories: blog-post
 tags: recommendations info-haul
 ---
