@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "How Fit Am I, Really?"
+date: 2021-04-16 hh:mm:ss -0000
+categories: blog-post analysis reflection
 ---
 
 # Module 4: Assessment of Fitness Status
