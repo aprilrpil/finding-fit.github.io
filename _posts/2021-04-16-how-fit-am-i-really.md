@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "How Fit Am I, Really?"
-date: 2021-04-15
 categories: blog-post
 tags: analysis reflection
 ---
