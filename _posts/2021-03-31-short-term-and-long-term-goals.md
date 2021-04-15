@@ -2,7 +2,6 @@
 layout: default
 title: "Short Term and Long Term goals"
 categories: blog_post
-tags: reflection analysis
 ---
 # Short Term and Long Term goals
 ***
