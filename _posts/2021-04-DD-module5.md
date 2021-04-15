@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Principles of Fitness Training Design"
+date: 2021-04-16 hh:mm:ss -0000
+categories: blog-post recommendations info-haul
 ---
 # Module 5: Principles of Fitness Training Design
 
