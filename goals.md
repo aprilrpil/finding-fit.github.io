@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Short Term and Long Term goals"
-categories: blog_post
 ---
 # Short Term and Long Term goals
 ***
