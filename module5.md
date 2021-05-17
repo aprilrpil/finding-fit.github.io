@@ -3,7 +3,7 @@ layout: default
 title: "Principles of Fitness Training Design"
 ---
 
-# Module 5: Principles of Fitness Training Design
+# Principles of Fitness Training Design
 
 Creating a fitness training program can fast but it is not guaranteed that it will be effective, efficient, and suitable to the individual who will follow this program. Effective fitness training programs combines various exercise regimes that are aerobic and resistance training exercises, depending on the individual's goals and needs. It is important to consider the person's age, gender, and current state of health as well when formulating a program. The following are six links that discuss and suggest dynamic fitness training programs. Included in the list are fitness training programs designed with innovative approaches based on most recent researches, followed by articles that discuss about the basic principles and variables that have been proven to make the most effective programs and have therefore been used over by experts, institutions, and health facilities in creating dynamic resistance training programs.
 
