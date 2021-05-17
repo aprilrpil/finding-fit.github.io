@@ -28,7 +28,7 @@ Recently, I learned that my youngest sister, who's closest to me and living in o
 
 ![sister's My Day post](assets/img/may17/Screenshot_20210517-231627.png){:width="300px"}
 
-I didn't pay it any mind at first, but as I see her posts on *My Day*, I realized I was jealous. I miss running freely, I miss my sister, and I envy the slightly better freedom she has back in our hometown. I think it has given me another motivation in creating an alternate route so I can walk and run around my neighborhood.
+I didn't pay it any mind at first, but as I see more of her posts on *My Day*, I realize I was getting jealous. I miss running freely, I miss my sister, and I envy the slightly better freedom she has back in our hometown. I think it has given me another motivation in creating an alternate route so I can walk and run around my neighborhood.
 
 It will be lonely doing it alone, but I am itching to use my new shoes and to feel my heart beat hard and strong inside my chest. I miss that sensation, too. Walking the measely  2 km (sometimes jogging it) is just not enough to produce the same adrenaline rush. It does give me enough energy that makes me water the plants outside, prune, clean, cook, and everything else with a happier and upbeat mood compared to when I'm not doing anything, but I miss feeling sweaty and dirty because of a more purposeful physical exertion. I also saw in an article that aside from the happy hormones that the body produces from exercising, and improved sleeping habits, high-impact exercises [*have been shown to promote a higher bone density than non-impact sports*][1]. And running is considered as a high-impact exercise.
 
