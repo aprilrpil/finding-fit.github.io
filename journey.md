@@ -22,8 +22,7 @@ How fit am I, really? After taking test to see the fitness level of my cardiovas
 ---------------------------------------------|
 There are variables and principles needed in creating an effective fitness program. An effective fitness training program or resistance training program is a dynamic program that is flexible and can change based on the individual's needs, ability, and progression.|
 
-<!--
-[Link to a nonexistent file](404.md) |
+[Last Update](may17lastupdate.md) |
 ---------------------------------------------|
-Descrption to post|
---->
+D
+May 17, 2021: my last update on this blog|
