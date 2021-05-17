@@ -20,6 +20,8 @@ Becoming prettier and shapely through fitness training would be nice, but I want
 
 I had my birthday recently, and as a present for myself (using the birthday money gifts given to me), I bought a proper, sturdy rubber shoes. The fit is nice, the material is nice, and wearing it for the first time, I was excited in breaking it by running laps around the UPD oval (if only I can at the moment). It gave me motivation to start running again as a hobby.
 
+![new rubber shoes](assets/img/may17/20210506_150119.jpg){:width="300px"}
+
 Jogging, running, sprinting. Running is so fun, I miss it so much. The wind in my face and hair, and paired with a good music, it almost feels like I could fly.
 
 Recently, I learned that my youngest sister, who's closest to me and living in our hometown in Mindanao, has been jogging almost everyday together with her church friends at 4 in the morning.
