@@ -24,5 +24,4 @@ There are variables and principles needed in creating an effective fitness progr
 
 [Last Update](may17lastupdate.md) |
 ---------------------------------------------|
-D
 May 17, 2021: my last update on this blog|
