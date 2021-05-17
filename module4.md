@@ -6,7 +6,7 @@ title: "How Fit Am I, Really?"
 # Module 4: Assessment of Fitness Status
 ## _"How fit am I, really?"_
 
-(assets/img/mod5/20210415_174518.jpg){:width="200px"}
+![whole body portrait](assets/img/mod5/20210415_174518.jpg){:width="200px"}
 
 First: my BMI is 18.6 which indicates "normal weight" and my WHR is 0.75, which is classified as Pear Shape or low health risk. As for my cardiovascular health, the test on worldfitnesslevel.org says I have Good Fitness level and that my "heart's capacity to transport oxygen is good."
 
