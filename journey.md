@@ -14,15 +14,13 @@ Resting heart rates recorded in 3 consecutive days, Feb 23 to 25, before taking 
 ---------------------------------------------|
 My short term and long term goals. The link to view my reflection paper is included there as well. |
 
-<!---
-[Link to a file not listed in nav](module5.md) |
----------------------------------------------|
-Descrption to post|
--->
-
 [Module 4: Assessment of Fitness Status](module4.md) |
 ---------------------------------------------|
 How fit am I, really? After taking test to see the fitness level of my cardiovascular health in worldfitnesslevel.org, I try to analyze the fitness status of my body and what health component I should focus on from now on. |
+
+[Principles in Fitness Training](module5.md) |
+---------------------------------------------|
+There are variables and principles needed in creating an effective fitness program. An effective fitness training program or resistance training program is a dynamic program that is flexible and can change based on the individual's needs, ability, and progression.|
 
 <!--
 [Link to a nonexistent file](404.md) |
