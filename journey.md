@@ -18,7 +18,7 @@ My short term and long term goals. The link to view my reflection paper is inclu
 ---------------------------------------------|
 How fit am I, really? After taking test to see the fitness level of my cardiovascular health in worldfitnesslevel.org, I try to analyze the fitness status of my body and what health component I should focus on from now on. |
 
-[Principles in Fitness Training](module5.md) |
+[Principles in Fitness Training Design](module5.md) |
 ---------------------------------------------|
 There are variables and principles needed in creating an effective fitness program. An effective fitness training program or resistance training program is a dynamic program that is flexible and can change based on the individual's needs, ability, and progression.|
 
@@ -27,12 +27,3 @@ There are variables and principles needed in creating an effective fitness progr
 ---------------------------------------------|
 Descrption to post|
 --->
-
-## My Blog Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
