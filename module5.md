@@ -34,3 +34,10 @@ An article from Australian Fitness Academy (AFA), which details the aspects reco
 ### 5. [How to design a program](https://exercise.trekeducation.org/resistance-training/design/)
 
 *Training guidelines for strength, power, endurance, hypertrophy and plyometric training* from TREK in infographic formats.
+
+
+### 6. [Program design in resistance training](https://journals.lww.com/acsm-healthfitness/fulltext/2006/07000/personalize_it__program_design_in_resistance.6.aspx)
+
+Here is a detailed and technical article from American College of Sports Medicine's Health & Fitness Journal that discusses the components and principles considered in creating a dynamic or personalized fitness program that can be remodeled and tailored over time based on the individual's progression.
+
+---
